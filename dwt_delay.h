@@ -21,6 +21,7 @@
  */
 
 #include <stdint.h>
+#include "stm32f4xx_hal.h"
 
 #ifndef INC_DWT_DELAY_H_
 #define INC_DWT_DELAY_H_
