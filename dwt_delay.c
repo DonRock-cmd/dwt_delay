@@ -20,7 +20,6 @@
  * http://www.gnu.org/licenses/.
  */
 
-#include "stm32f1xx_hal.h"          // change to whatever MCU you use
 #include "dwt_delay.h"
 
 /**
